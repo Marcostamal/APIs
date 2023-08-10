@@ -13,5 +13,5 @@ Esta es una breve definicion sobre lo que es una API si quieres saber un poco ma
 
 ## La libreria Requests de Python
 
-Esta libreria lo que nos permite es hacer peticiones en formato HTTP a un servidor para conseguir alguna transferencia de informacion, por lo genaral este tipo de aplicaciones tienen una documentacion en la cual detalla como se deben de hacer estas peticiones y la respuesta que recibira. Esta libreria no viene por defecto con python por lo que tendras que instalarla [libreria requests](https://pypi.org/project/requests/)
+Esta libreria lo que nos permite es hacer peticiones en formato HTTP a un servidor para conseguir alguna transferencia de informacion, por lo genaral este tipo de servidores tienen una documentacion en la cual detalla como se deben de hacer estas peticiones y la respuesta que recibira. Esta libreria no viene por defecto con python por lo que tendras que instalarla [libreria requests](https://pypi.org/project/requests/)
 
