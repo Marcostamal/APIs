@@ -1,4 +1,7 @@
 # Que es una API y como utilizar la libreria requests de python
+## Introduccion
+Hola, ¿Como estas? el dia de hoy mediante este repositorio te estare explicando lo que es una API, como utilizar la libreria requests de python y algunas otras cosas que deberias saber para entender un poco mas acerca de este tema.
+
 ## Que es una API
 Una API ("Interfaz de programacion de aplicaciones") es un mecanismo que permite a dos componentes de software comunicarse entre si mediante un conjunto de definiciones y protocolos.
  
