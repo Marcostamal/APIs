@@ -5,3 +5,5 @@ Una API ("Interfaz de programacion de aplicaciones") es un mecanismo que permite
 En el contexto de las API, la palabra aplicación se refiere a cualquier software con una función distinta. La interfaz puede considerarse como un contrato de servicio entre dos aplicaciones. Este contrato define cómo se comunican entre sí mediante solicitudes y respuestas. La documentación de su API contiene información sobre cómo los desarrolladores deben estructurar esas solicitudes y respuestas.
 
 La arquitectura de las API suele explicarse en términos de cliente y servidor. La aplicación que envía la solicitud se llama cliente, y la que envía la respuesta se llama servidor. En el ejemplo del tiempo, la base de datos meteorológicos del instituto es el servidor y la aplicación móvil es el cliente. 
+
+Esta es una breve definicion sobre lo que es una API si quieres saber un poco mas sobre ellas dale click a este enlace de AWS: [Mas informacion aqui](https://aws.amazon.com/es/what-is/api/)
