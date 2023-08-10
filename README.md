@@ -18,9 +18,7 @@ Esta libreria lo que nos permite es hacer peticiones en formato HTTP a un servid
 ## Codigos de estado de respuesta
 
 Antes de ver el ejemplo practico es importante aclarar que son los codigos de estado de respuesta, estos nos van a indicar si la peticion que hemos hecho a sido satisfactoria o no, hay muchos codigos y uno con el que seguro te has topado es el famoso error 404, este codigo lo que significa es que la pagina no existe. Otro codigo interesante es el 200, este es el que esperamos optener y el que nos indicara que la peticion que hemos hecho se ha hecho correctamente.
+
 No es necesario aprenderlos todos, solo basta con mirar cual es el primer digito del codigo para darnos una idea de lo que significa.
 <p align="center">
-<img src="<p align="center">
-<img src="/imagenes/5ede498db760540004f2c5e4.png"  height="400">
-</p>"  height="400">
-</p>
+<img src="https://static.wixstatic.com/media/850ae7_581a8111d7dd4134855ca2072370ce2d~mv2.png/v1/fill/w_640,h_406,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/850ae7_581a8111d7dd4134855ca2072370ce2d~mv2.png"  height="400">
