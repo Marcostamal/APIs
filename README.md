@@ -25,4 +25,4 @@ No es necesario aprenderlos todos, solo basta con mirar cual es el primer digito
 
 ## API de horas de puesta y salida de sol
 
-Vamos a utilizar una API que nos va devolver la hora en que el sol se pone y sale como ejemplo para poder utilizar la libreria request de python. Puedes ir a la pagina de la API para ver la documentacion: [API](https://sunrise-sunset.org/api)
+Vamos a utilizar una API que nos va devolver la hora en que el sol se pone y sale como ejemplo para poder utilizar la libreria request de python. Puedes ir a la pagina de la API para ver la documentacion: [API](https://sunrise-sunset.org/api) aca es donde estaremos practicando con la libreria requests [notebook](https://github.com/Marcostamal/APIs/blob/main/practica.ipynb)
