@@ -22,3 +22,7 @@ Antes de ver el ejemplo practico es importante aclarar que son los codigos de es
 No es necesario aprenderlos todos, solo basta con mirar cual es el primer digito del codigo para darnos una idea de lo que significa.
 <p align="center">
 <img src="https://static.wixstatic.com/media/850ae7_581a8111d7dd4134855ca2072370ce2d~mv2.png/v1/fill/w_640,h_406,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/850ae7_581a8111d7dd4134855ca2072370ce2d~mv2.png"  height="400"> </p>
+
+## API de horas de puesta y salida de sol
+
+Vamos a utilizar una API que nos va devolver la hora en que el sol se pone y sale como ejemplo para poder utilizar la libreria request de python. Puedes ir a la pagina de la API para ver la documentacion: [API](https://sunrise-sunset.org/api)
